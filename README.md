@@ -19,7 +19,7 @@ A estratégia de solução adotada neste projeto foi o método CRISP-DM (*Cross 
 Segue abaixo uma ilustração das etapas do processo:
 
 <div align="center">
-<img src="img/ciclo-crisp.png" width="800px">
+<img src="img/ciclo-crisp.png" width="900px">
 </div>
 
 </br>
@@ -189,6 +189,7 @@ Essa técnica permite avaliar o algoritmo sempre com um conjunto de dado não vi
 ### 7.3 - *Performance dos Algoritmos*
 
 Após a aplicação da técnica de Cross-Validation nos algoritmos escolhidos, tivemos os seguintes resultados:
+
 <div align="center">
 
 |                              Model |             MAE |            MAPE |             RMSE |
@@ -215,6 +216,7 @@ Com o algoritmo definido, agora podemos analisar a performance do modelo sobre o
 Com base nos erros do algoritmo, agora é possível mensurar o faturamento levando em consideração um cenário otimista e um cenário pessimista de cada loja, agregando mais valor na decisão do time de negócio.
 
 Segue abaixo cenários de 5 lojas escolhidas de forma aleatória. 
+
 <div align="center">
 
 |     Loja |       Predição |  Melhor Cenário |    Pior Cenário |        MAE |  MAPE |
@@ -275,7 +277,7 @@ Como resposta da consulta, é retornado o mesmo conjunto de dados de entrada da 
 Abaixo, segue uma ilustração com intuito de explicar melhor o processo que envolve esta API:
 
 <div align="center">
-<img src="img/handler-api.png" width="700px">
+<img src="img/handler-api.png" width="750px">
 </div>
 
 </br>
@@ -289,7 +291,7 @@ Depois que a API de consulta (*handler.py*) é acionada, ela retorna um arquivo 
 Abaixo, segue uma ilustração com a finalidade de explicar melhor o processo que envolve esta API:
 
 <div align="center">
-<img src="img/rossmann-api.png" width="700px">
+<img src="img/rossmann-api.png" width="750px">
 </div>
 
 </br>
