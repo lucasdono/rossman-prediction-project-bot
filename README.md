@@ -39,7 +39,7 @@ Em busca de entender melhor a motivação que gerou esse problema, entramos em c
 ## **3 - Coleta de Dados**
 
 <p>Para este cenário fícticio, usamos um conjunto de dados públicos no formato .csv de uma competição do Kaggle.</p>
-Você pode acessar a fonte de dados [clicando aqui](https://www.kaggle.com/c/rossmann-store-sales>)
+Você pode acessar a fonte de dados <a href="https://www.example.com">clicando aqui</a></p>
 
 </br>
 
@@ -298,7 +298,7 @@ Abaixo, segue uma ilustração com a finalidade de explicar melhor o processo qu
 
 ### 9.3 - *Bot do Telegram*
 
-A seguir é mostrado com vídeo o funcionamento do BOT. Você pode acessar o BOT através do link <inserir link>
+A seguir é mostrado com vídeo o funcionamento do BOT. Você pode acessar o BOT através do link [Telegram-BOT](https://web.telegram.org/k/#@project_rossmann_bot)
 
 -Lembre-se de usar “/” antes do ID da loja.
 
