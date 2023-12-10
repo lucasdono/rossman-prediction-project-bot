@@ -303,5 +303,5 @@ A seguir é mostrado com vídeo o funcionamento do BOT. Você pode acessar o BOT
 -Lembre-se de usar “/” antes do ID da loja.
 
 <div align="center">
-<img src="img/bot-execution.gif" width="700px">
+<img src="img/bot-execution.gif" width="300px">
 </div>
