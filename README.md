@@ -298,10 +298,11 @@ Abaixo, segue uma ilustração com a finalidade de explicar melhor o processo qu
 
 ### 9.3 - *Bot do Telegram*
 
-A seguir é mostrado com vídeo o funcionamento do BOT. Você pode acessar o BOT através do link [Telegram-BOT](https://web.telegram.org/k/#@project_rossmann_bot)
+A seguir é mostrado com vídeo o funcionamento do BOT. Você pode acessar o BOT através do link [Telegram-BOT](https://t.me/project_rossmann_bot)
 
--Lembre-se de usar “/” antes do ID da loja.
-
+- Lembre-se de usar “/” antes do ID da loja.
+- Pode ser que demore um pouco para retornar a resposta, por conta da inatividade do BOT. É só aguardar um pouco.
+  
 <div align="center">
 <img src="img/bot-execution.gif" width="300px">
 </div>
